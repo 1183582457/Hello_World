@@ -1,2 +1,5 @@
 # Hello_World
-the first respository
+
+Hi Humans!
+
+I like Node js and coffeescript
